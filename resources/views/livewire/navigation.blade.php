@@ -5,8 +5,8 @@ use Livewire\Volt\Component;
 new class extends Component {
 
 }; ?>
-<nav class="fixed top-0 left-0 right-0 z-999 bg-white h-16 select-none shadow-sm" x-data="{ showMenu: false }">
-    <div class="w-full flex overflow-hidden relative flex-wrap justify-between items-center mx-auto h-16 font-medium md:overflow-visible lg:justify-center px-6 md:px-4 lg:px-12 ">
+<nav class="fixed top-0 left-0 right-0 z-999 bg-white h-14 select-none shadow-sm" x-data="{ showMenu: false }">
+    <div class="w-full flex overflow-hidden relative flex-wrap justify-between items-center mx-auto h-14 font-medium md:overflow-visible lg:justify-center px-6 md:px-4 lg:px-12 ">
         <div class="flex justify-start items-center pr-4 w-1/4 h-full">
             <a href="#" class="flex items-center py-4 space-x-2 font-extrabold text-gray-900 md:py-0">
                         <span class="flex justify-center items-center w-8 h-8 text-white bg-gray-900 rounded-full">

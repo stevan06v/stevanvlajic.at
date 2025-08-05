@@ -5,7 +5,7 @@ use Livewire\Volt\Component;
 new class extends Component {
     //
 }; ?>
-<section class="py-10 bg-gray-50">
+<section class="py-10 bg-gray-50 w-full">
     <div class="px-10 mx-auto max-w-7xl">
         <div class="flex flex-col items-center sm:flex-row sm:justify-between">
             <a href="#_" class="flex items-center text-lg font-bold">

@@ -10,8 +10,10 @@
     <script src="https://unpkg.com/alpinejs" defer></script>
     <!-- Include the TailwindCSS library on your page -->
     <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdn.jsdelivr.net/npm/flowbite@3.1.2/dist/flowbite.min.css" rel="stylesheet" />
+
 </head>
-<body>
+<body class="min-h-screen flex flex-col">
 <section class="pb-12 w-full antialiased">
     <livewire:navigation></livewire:navigation>
     <div >
